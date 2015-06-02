@@ -1,0 +1,21 @@
+body {
+	background-image: url("../images/grid.jpg")
+}
+
+body { 
+	font-family: "Open Sans"
+}
+
+#footer {
+	background-color: #C0C0C0;
+	color: #000000;
+	font-size: 16px;
+	padding-top: 3em;
+	padding-bottom: 3em;
+}
+
+.social a {
+	font-size: 24px
+}
+
+
