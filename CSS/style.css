@@ -10,14 +10,15 @@ h2 {
 
 #wrapper {
   background-image: url('../images/header_CDM.jpg');
-  height: 650px;
-  background-size: cover;
+  height: 550px;
   padding-top: 150px;
   text-align: center;
-  color: white;
+  color: white; 
 }
 
-
+#wrapper {
+  background-size: cover; 
+}
 /* Footer */
 
 #footer {
