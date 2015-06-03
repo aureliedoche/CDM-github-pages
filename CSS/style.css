@@ -1,8 +1,20 @@
  /* General classes for page */
 
 body {
-  background-image: url("../images/grid.jpg");
   font-family: 'Open Sans';
+}
+
+h2 {
+  color: #999999;
+}
+
+#wrapper {
+  background-image: url('../images/header_CDM.jpg');
+  height: 650px;
+  background-size: cover;
+  padding-top: 150px;
+  text-align: center;
+  color: white;
 }
 
 
@@ -33,7 +45,7 @@ body {
 
 /* Lead with big image */
 
-.wrapper {
+#wrapper {
   background-image: url('../images/header_CDM.jpg');
   height: 650px;
   background-size: cover;
@@ -42,13 +54,13 @@ body {
   color: white;
 }
 
-.lead h1 {
+#lead h1 {
   font-size: 72px;
   text-shadow: 0 0 20px rgba(0, 0, 0, .8);
   font-weight: normal;
 }
 
-.lead h2 {
+#lead h2 {
   background: rgba(0, 0, 0, .4);
   display: inline-block;
   padding: 0.2em;
