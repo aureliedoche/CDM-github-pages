@@ -17,8 +17,9 @@ h2 {
 }
 
 #wrapper {
-  background-size: cover; 
+  background-size: cover
 }
+
 /* Footer */
 
 #footer {
@@ -73,7 +74,7 @@ h2 {
 
 /* Vertical spacer to help content breathe */
 
-.vertical-spacer {
+#vertical-spacer {
   height: 8em;
 }
 
