@@ -8,18 +8,6 @@ h2 {
   color: #999999;
 }
 
-#wrapper {
-  background-image: url('../images/header_CDM.jpg');
-  height: 550px;
-  padding-top: 150px;
-  text-align: center;
-  color: white; 
-}
-
-#wrapper {
-  background-size: cover
-}
-
 /* Footer */
 
 #footer {
@@ -48,7 +36,7 @@ h2 {
 /* Lead with big image */
 
 #wrapper {
-  background-image: url('../images/header_CDM.jpg');
+  background-image: url('../images/couleurs-2.jpg');
   height: 650px;
   background-size: cover;
   padding-top: 150px;
