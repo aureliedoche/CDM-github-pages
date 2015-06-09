@@ -42,12 +42,9 @@ h3 {
 
 #wrapper {
   background-image: url('../images/logo_CDM_3.jpg');
-  height: 650px;
-  padding-top: 150px;
-  text-align: center;
-  color: white;
+  height: 430px;
   background-size: cover; 
-}
+  }
 
 #lead h1 {
   font-size: 72px;
