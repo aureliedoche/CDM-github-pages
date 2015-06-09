@@ -80,10 +80,8 @@ h3 {
   letter-spacing: 1px;
 }
 
-#blockquote{ 
- width:100px;
- padding:100px;
- margin:auto;
+#divouter{ 
+ padding:0px 260px 0px 320px ;
 }
 
 /* How to override the default Bootstrap colors */
