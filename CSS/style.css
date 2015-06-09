@@ -51,11 +51,10 @@ h2 {
 }
 
 #lead h3 {
-  font-size: 48px;
+  font-size: 60px;
   text-shadow: 0 0 20px rgba(0, 0, 0, .8);
   font-weight: italic;
 } 
-}
 
 #lead h2 {
   background: rgba(0, 0, 0, .4);
