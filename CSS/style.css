@@ -54,12 +54,6 @@ h3 {
   font-weight: normal;
 }
 
-#lead h3 {
-  font-size: 60px;
-  text-shadow: 0 0 20px rgba(0, 0, 0, .8);
-  font-weight: italic;
-} 
-
 #lead h2 {
   background: rgba(0, 0, 0, .4);
   display: inline-block;
@@ -69,6 +63,10 @@ h3 {
   letter-spacing: 2px;
   margin-bottom: 2em;
 }
+
+#lead h3 {
+  font-size: 62px;
+} 
 
 /* Vertical spacer to help content breathe */
 
