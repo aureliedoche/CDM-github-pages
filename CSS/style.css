@@ -10,7 +10,7 @@ h2 {
 
 h3 {
   color: #999999;
-  font-size: 60px;
+  font-size: 34px;
 }
 
 /* Footer */
@@ -81,6 +81,12 @@ h3 {
   color: #444444;
   font-weight: 300;
   letter-spacing: 1px;
+}
+
+#blockquote{ 
+ width:100px;
+ padding:100px;
+ margin:auto;
 }
 
 /* How to override the default Bootstrap colors */
