@@ -1,8 +1,12 @@
- /* General classes for page */
-
 body {
   font-family: 'Open Sans';
 }
+
+h1 {
+  font-size: 38px
+}
+
+h1, h3 { display: inline }
 
 h2 {
   color: #3e7dc8;
@@ -22,7 +26,6 @@ h5 {
   font-size: 8px;
 }
 
-/* Lead with big image */
 
 #wrapper {
   background-image: url('../images/logo_CDM_3.jpg');
@@ -30,16 +33,9 @@ h5 {
   background-size: cover; 
   }
 
-/* Vertical spacer to help content breathe */
-
-#vertical-spacer {
-  height: 8em;
-}
-
 #divouter{ 
- padding:0px 300px 0px 300px ;
+ padding:0px 280px 0px 300px ;
 }
-
 
 /* How to override the default Bootstrap navbar */
 
