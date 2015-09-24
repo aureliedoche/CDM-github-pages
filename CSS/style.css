@@ -30,11 +30,15 @@ h5 {
 #wrapper {
   background-image: url('../images/new_header_CDM_V4.jpg');
   height: 430px;
-  background-size: cover; 
-  }
+  background-size: 100% 100%;
+  max-width:100%;
+}
+  
 
 #divouter{ 
  padding:0px 280px 0px 300px ;
+  background-size: 100% 100%;
+  max-width:100%;
 }
 
 /* How to override the default Bootstrap navbar */
